@@ -1,19 +1,33 @@
-CBOE = Chicago Board Options Exchange
+**arbitrage = profit from price differences of the same asset quoted on different exchanges**
 
-Data science steps:
+**CBOE = Chicago Board Options Exchange**
 
-1. Data gathering -> 2. Data preprocessing -> 3. Data exploration -> 4. Data visualization -> 5. Data analysis (<)-> 6. Data interpretation
+**data interpretation, commonly referred to as business intelligence or data intelligence = understand the what and how of the data**
 
-dividend = payment made to shareholders from a company's profits
+**data prediction, commonly referred to as predictive analytics or forecasting = understand the what's next of the data**
 
-dividend yield = amount distributed in monetary units over the current share price of the company
+**data science steps:**
 
-GDP = gross domestic product
+1. data gathering -> 2. data preprocessing -> 3. data exploration -> 4. data visualization -> 5. data analysis (<)-> 6. data interpretation / prediction
 
-OHLC = open price, high price, low price, and close price
+**dividend = payment made to shareholders from a company's profits**
 
-S&P 500 = Standard and Poor's 500
+**dividend yield = amount distributed in monetary units over the current share price of the company**
+
+**forward / futures contract = derivative contract where a buyer locks in a price for an asset to buy it at a later time**
+
+**GDP = gross domestic product**
+
+**long (buy) position, called bullish = buy shares for a long period of time in order to sell at a profit**
+
+**OHLC = open price, high price, low price, and close price**
+
+**option = the right, but not the obligation, to buy a certain asset at a specific price in the future by paying a premium now (the option's price)**
+
+**S&P 500 = Standard and Poor's 500**
 
 That is a stock market index tracking the stock performance of 500 of the largest companies listed on stock exchanges in the United States.
 
-VIX = volatility index, also referred to as the "fear index" 
+**short (sell) position, called bearish = sell shares before they fall in price in order to buy them again cheaper in a short period of time**
+
+**VIX = volatility index, also referred to as the "fear index"**

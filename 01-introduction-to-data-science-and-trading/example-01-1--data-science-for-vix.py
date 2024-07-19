@@ -115,4 +115,4 @@ plt.legend()
 plt.savefig('example-01-1--data-science-for-vix.svg')
 plt.close()
 
-# # # 5. Data analysis, 6. Data interpretation are skipped for now to study later
+# # # 5. Data analysis, 6. Data interpretation / prediction are skipped for now to study later
