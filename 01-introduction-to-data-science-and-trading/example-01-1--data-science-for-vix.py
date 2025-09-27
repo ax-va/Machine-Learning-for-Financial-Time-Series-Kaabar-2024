@@ -43,7 +43,6 @@ print(vix.tail())
 
 # Calculate the number of NaN values
 count_nan = vix['VIXCLS'].isnull().sum()
-
 # Print the result
 print('Number of nan values in the VIX dataframe:', count_nan)
 # Number of nan values in the VIX dataframe: 292
@@ -116,3 +115,4 @@ plt.savefig('example-01-1--data-science-for-vix.svg')
 plt.close()
 
 # # # 5. Data analysis, 6. Data interpretation / prediction are skipped for now to study later
+...
